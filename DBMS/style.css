@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Itim&display=swap');
+*{
+    font-family:Itim;
+    color:rgb(14, 14, 14);
+}
+html, body {
+    margin:0;
+}
+  
+header{
+    font-size: 550%;
+    /* background-color:#559affb3; */
+    margin: 0%;
+    padding: 5px 80px;
+    text-align: left;
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    text-align: center;
+}
+
+#div1{
+    background-color:rgb(118, 223, 219);
+    padding:10px;
+    margin: 0px;
+    text-align: center;
+}
+#div1 h2,#div2 h2{
+    text-align: center;
+    color: mintcream;
+    font-size: 355%;
+}
+#div1 p,#div2 p{
+    font-size: 200%;
+}
+#div1 button{
+    margin: 25px;
+    padding: 5px;
+}
+#div2{
+    background-color:rgb(105, 156, 105);
+    padding:10px;
+    margin: 0px;
+    text-align: center;
+}
+.service{
+    margin:10px;
+}
+footer{
+    /* background-color:  #05182b; */
+
+    margin:0px;
+    padding: 30px 40px;
+    text-align: right;
+}
+.foot{
+    margin : 7px;
+}
+
+

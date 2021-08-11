@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #a7c0ff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #000100;
+    line-height: 1.4;
+}
+.register{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+div.main{
+    width: 600px;
+    margin: 20px auto 0px auto;
+}
+h2{
+    color: #20114a;
+    text-align: center;
+    font-family: sans-serif;
+    border-bottom: 2px solid #ffbbd7;
+}
+h3{
+    color: #20114a;
+    text-align: center;
+    font-family: sans-serif;
+    border-bottom: 3px solid #6fe9f4;
+}
+div.register{
+    background-color: #fefefe;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px;
+    color: #20114a;
+}
+#register{
+    margin: 5px;
+}
+.label{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.input-box{
+    width: 100%;
+    border: 1px solid #ffbbd7;
+    border-radius: 30px;
+    padding: 15px;
+    outline: 0;
+    margin: auto;
+}
+.button{
+    padding: 15px;
+    width: 100%;
+    margin: 35px 0 10px ;
+    background-color: #6baeff;
+    border: none;
+    border-radius: 30px;
+    outline: none;
+    color: #fefefe;
+    margin-bottom: 15px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.textarea{
+    resize: none;
+    height: 110px;
+    width: 100%;
+    outline: none;
+    padding: 8px 10px;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+    font-size: 20px;
+    font-weight: normal;
+    border: 1px solid #6fe9f4;
+}

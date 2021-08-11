@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Itim&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Itim;
+    color:rgb(14, 14, 14);
+    box-sizing: border-box;
+}
+html, body {
+    margin:0;
+}
+header{
+    background-color: coral;
+    font-size: 250%;
+    margin:0;
+    text-align:center;
+}
+header p{
+    margin:0;
+}
+nav{
+    margin:0;
+}
+body{
+    background-color: #badfd7;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* .container{
+    width: 100%;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    width: 550px;
+    height: 400px;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0,0.26)
+}
+.innerbox{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+h2{
+    font-weight: normal;
+    color: #0d3451;
+    font-family: garamond, serif;
+    padding: 20px;
+    font-weight: bold;
+}
+fieldset{
+    border: none;
+    margin: 15px;
+}
+.label{
+    font-family: Garamond, serif;
+    color: #0d3451;
+    font-weight: normal;
+}
+.input-box{
+    padding: 10px;
+    border: 1px solid #f6c9cc;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #f6c9cc;
+    margin-top: 5px;
+}
+.input-box:focus{
+    border: 1px solid #3f7565 ;
+    outline: none;
+}
+.button{
+    padding: 10px;
+    width: 80px;
+    margin: 15px;
+    background-color: #3f7565 ;
+    border: 1px solid #3f7565;
+    width: 100px;
+    display:inline-flex;
+    justify-content: center;
+    border-radius: 25px;
+    color: #fff;
+    font-weight: normal;
+    font-family: garamond, serif;
+}
+.button-2{
+    padding: 10px;
+    width: 80px;
+    background-color: #da5d6b;
+    border: 1px solid #da5d6b ;
+    width: 100px;
+    display:inline-flex;
+    justify-content: center;
+    border-radius: 25px;
+    color: #fff;
+    font-weight: normal;
+    font-family: garamond, serif;
+} */
+
